@@ -1,0 +1,19 @@
+.img{
+    width: 130px;
+    height: 140px;
+
+}
+.card{
+    width: 450px;
+    height: 150px;
+    background-color:rgb(170, 165, 165);
+    margin:0px auto ;
+    padding: 20px;
+    border: 1px dotted blue;
+    display: flex;
+    justify-content: centre;
+    text-align: center;
+    border-bottom: 5px solid purple;
+    animation-direction: reverse;
+    border-radius: 5px;
+}
